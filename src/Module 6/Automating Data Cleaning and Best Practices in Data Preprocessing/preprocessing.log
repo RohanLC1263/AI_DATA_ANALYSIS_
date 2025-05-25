@@ -3,3 +3,8 @@
 2025-05-25 15:01:34,159 - INFO - Handled outliers using IQR capping.
 2025-05-25 15:01:34,159 - INFO - Applied MinMaxScaler, RobustScaler, and MaxAbsScaler.
 2025-05-25 15:01:34,159 - INFO - Stored transformation parameters to transformation_params.json
+2025-05-25 15:04:52,221 - INFO - Loaded sample data
+2025-05-25 15:05:07,930 - INFO - Filled missing values using mean imputation.
+2025-05-25 15:05:07,931 - INFO - Handled outliers using IQR capping.
+2025-05-25 15:05:07,931 - INFO - Applied MinMaxScaler, RobustScaler, and MaxAbsScaler.
+2025-05-25 15:05:07,932 - INFO - Stored transformation parameters to transformation_params.json
