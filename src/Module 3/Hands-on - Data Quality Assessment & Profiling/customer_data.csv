@@ -1,0 +1,8 @@
+CustomerID,Name,Email,Phone,Gender
+1,Alice,alice@example.com,1234567890,F
+2,Bob,bob@example.com,2345678901,M
+3,Charlie,charlie@example.com,,Male
+4,David,bob@example.com,2345678901,male
+5,Eve,,3456789012,Female
+6,Frank,frank@example.com,,female
+7,Grace,grace@example.com,4567890123,M
