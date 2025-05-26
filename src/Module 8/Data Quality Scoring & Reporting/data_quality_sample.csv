@@ -1,0 +1,11 @@
+id,name,age,grade,email
+1,John Doe,20.0,A,johndoe@example.com
+2,Jane Smith,22.0,B,janesmith@example.com
+3,Bob Johnson,,Z,bobjohnson@ex.com
+4,Alice White,25.0,88,alicewhite@example.com
+5,Charlie Brown,21.0,95,charliebrown@example
+6,David Lee,19.0,80,invalid-email
+7,Eve Adams,23.0,101,eveadams@example.com
+8,Ann Marie,,F,annmarie@example.com
+9,Tom O'Neil,30.0,85,tomoneil@example.com
+10,,19.0,,
