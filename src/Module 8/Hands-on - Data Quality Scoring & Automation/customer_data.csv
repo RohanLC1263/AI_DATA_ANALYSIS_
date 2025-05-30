@@ -1,6 +1,6 @@
-CustomerID,Name,Email,Phone,SalesAmount
-1,John Doe,john@example.com,123-456-7890,250.0
-2,Jane Smith,,123.456.7890,300.0
-3,,dave@example.com,123-456-7890,
-4,Alice Green,alice@green.com,,400.0
-5,Tom Brown,tom.b@example.com,123-456-7890,500.0
+CustomerID,Name,Email
+1,John,john@example.com
+2,Jane,jane@x.com
+3,Tom,tom@z.com
+4,Alice,alice@y.com
+5,Bob,bob@a.com
